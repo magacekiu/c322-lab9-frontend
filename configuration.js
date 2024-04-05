@@ -1,6 +1,6 @@
 const mode = 0;
 
-const host_local = "http://localhost:8080";
+const host_local = "https://ducks-service-latest-1-shia.onrender.com";
 
 const host_remote = "https://ducks-service-latest-1-shia.onrender.com";
 
